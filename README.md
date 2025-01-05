@@ -1,6 +1,6 @@
 # beta-research
 
-Research using different methods to estimate betas between assets.
+Research using different methods to estimate betas between assets and a dive into computing returns in execess of market beta.
 
 ## Running
 
