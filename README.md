@@ -54,6 +54,11 @@ The results include:
 - Hedged portfolio returns
 - Performance metrics
 
+## Reference 
+
+For more information on Kalman Filters, refer to the following resource:
+- [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+
 ## License
 
 This project is licensed under the MIT License.
